@@ -17,7 +17,7 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - New cube recipes to help you get skill charms for your build etc.
 - Perfect gem drops have replaced Flawless gem drops in late hell and maps
 - Massive improvements to frequency of good affixes on rares/crafts
-- Hephasto the Armorer drops Puzzlepieces at roughly 1:4 odds
+- Hephasto the Armorer drops Puzzlepieces at roughly 1:4 odds on Hell difficulty
 - Increased base density on Hell & maps by x1.5 to x2.0 roughly
 - Unique & Set items disabled but Runewords remain enable, Infinity convi is -75%
 - Gheeds, Hellfire Torch, Annihilus, Rainbow Facets and the special maps are still enabled  
