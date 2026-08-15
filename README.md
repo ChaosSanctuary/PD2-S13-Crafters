@@ -54,7 +54,7 @@ Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR
 <br/>
 
 # New CUBE recipes
-TP/ID tome + Scarab = Navigator/Almanac version  
+TP/ID tome + Horadrim Scarab = Navigator/Almanac version  
 Act boss essence + 1 Perfect Gem = 3 Infusions of corresponding gem  
 Hellfire torch: You now have the choice between the usual random outcome or selecting the class roll you prefer by using a Gul or Vex rune + Perfect gem. Once you have made your choice you will not be able to reroll it. To get the usual random class roll just cube the blank torch by itself.
   
