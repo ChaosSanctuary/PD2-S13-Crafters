@@ -1,5 +1,5 @@
 # INSTALLATION
-Navigate to your Project Diablo 2 folder within your Diablo 2 folder and delete any existing \data folder is there already is one otherwise simply extract the data folder from the zip archive here so you end up with Project Diablo 2\data\global\excel
+Navigate to your Project Diablo 2 folder within your Diablo 2 folder and delete any existing \data folder is there already is one otherwise simply extract the data folder from PD2S13crafters.zip so you end up with Project Diablo 2\data\global\excel
 <img width="286" height="26" alt="billede" src="https://github.com/user-attachments/assets/5f07c242-4627-4a3c-892f-d1e443505731" />
 
 Go to the Project Diablo 2 folder and create a shortcut to Game.exe and add the following to the "destination": -3dfx -direct -txt  
