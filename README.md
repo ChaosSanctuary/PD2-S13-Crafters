@@ -8,7 +8,7 @@ Go to the Project Diablo 2 folder and create a shortcut to Game.exe and add the 
 Launch the patch from that shortcut to Game.exe and enjoy! If installed correctly you will have a Hellforge Hammer in your inventory when you make a fresh character.  
 <img width="529" height="425" alt="billede" src="https://github.com/user-attachments/assets/f052946a-04d6-468b-a604-ed0e7f6b2aae" />
 
-
+<br/>
 
 # GENERAL CHANGES
 - Improved crafting and much improved access to crafting
@@ -19,7 +19,9 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - Massive improvements to frequency of good affixes on rares/crafts
 - Hephasto the Armorer drops Puzzlepieces at roughly 1:4 odds
 - Increased base density on Hell & maps by x1.5 to x2.0 roughly
-- Uniques & Sets disabled but Runewords remain enable, Infinity convi is -75%
+- Unique & Set items disabled but Runewords remain enable, Infinity convi is -75%
+- Gheeds, Hellfire Torch, Annihilus, Rainbow Facets and the special maps are still enabled  
+- Hellfire Torch reverted to +3 to compensate casters  
 
 <br/>
 
