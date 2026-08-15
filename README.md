@@ -1,5 +1,5 @@
 # INSTALLATION
-Navigate to your Project Diablo 2 folder within your Diablo 2 folder and delete any existing \data folder is there already is one otherwise simply extract the data folder from PD2S13crafters.zip so you end up with Project Diablo 2\data\global\excel
+Navigate to your Project Diablo 2 folder within your Diablo 2 folder and delete any existing \data folder if there already is one otherwise simply extract the data folder from PD2S13crafters.zip so you end up with Project Diablo 2\data\global\excel
 <img width="286" height="26" alt="billede" src="https://github.com/user-attachments/assets/5f07c242-4627-4a3c-892f-d1e443505731" />
 
 Go to the Project Diablo 2 folder and create a shortcut to Game.exe and add the following to the "destination": -3dfx -direct -txt  
@@ -19,7 +19,7 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - Massive improvements to frequency of good affixes on rares/crafts
 - Hephasto the Armorer drops Puzzlepieces at roughly 1:4 odds on Hell difficulty
 - Increased base density on Hell & maps by x1.5 to x2.0 roughly
-- Unique & Set items disabled but Runewords remain enable, Infinity convi is -75%
+- Unique & Set items disabled but Runewords remain enabled, Infinity convi is -75%
 - Gheeds, Hellfire Torch, Annihilus, Rainbow Facets and the special maps are still enabled  
 - Hellfire Torch reverted to +3 to compensate casters  
 
@@ -37,7 +37,7 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - Boots FRW affixes from 10/20/30 to 20/30/40
 - Re-enabled 4% mastery on Large charms
 - Re-enabled Visceral (301-400% ED) on Bows & Crossbows
-- Major adjustment to quiver affixes to make it significantly easier to roll good ones
+- Major adjustment to quiver affixes to make it significantly easier to roll good ones  
 Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR% and enhanced damage affixes to allow a wider range of bases to be used in crafting
 
 <br/>
@@ -55,7 +55,7 @@ Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR
 
 # New CUBE recipes
 TP/ID tome + Horadrim Scarab = Navigator/Almanac version  
-Act boss essence + 1 Perfect Gem = 3 Infusions of corresponding gem  
+Act boss Essence + 1 Perfect Gem = 3 Infusions of corresponding gem  
 Hellfire torch: You now have the choice between the usual random outcome or selecting the class roll you prefer by using a Gul or Vex rune + Perfect gem. Once you have made your choice you will not be able to reroll it. To get the usual random class roll just cube the blank torch by itself.
   
 Amethyst + Gul or Vex = Barb  
