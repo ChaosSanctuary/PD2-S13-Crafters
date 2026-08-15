@@ -14,12 +14,12 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - Improved crafting and much improved access to crafting
 - Maps drop a lot of crafting infusions & perfect gems
 - Re-crafting is now possible but crafting on rares is not
-- New cube recipes to help you get skill charms for your build etc.
+- New cube recipes that simulate trading to help you get skill charms for your build etc.
 - Perfect gem drops have replaced Flawless gem drops in late hell and maps
 - Massive improvements to frequency of good affixes on rares/crafts
 - Hephasto the Armorer drops Puzzlepieces at roughly 1:4 odds on Hell difficulty
 - Increased base density on Hell & maps by x1.5 to x2.0 roughly
-- Unique & Set items disabled but Runewords remain enabled, Infinity convi is -75%
+- Unique & Set items disabled but Runewords remain enabled, Infinity conviction is -75%
 - Gheeds, Hellfire Torch, Annihilus, Rainbow Facets and the special maps are still enabled  
 - Hellfire Torch reverted to +3 to compensate casters  
 
@@ -38,7 +38,7 @@ Launch the patch from that shortcut to Game.exe and enjoy! If installed correctl
 - Re-enabled 4% mastery on Large charms
 - Re-enabled Visceral (301-400% ED) on Bows & Crossbows
 - Major adjustment to quiver affixes to make it significantly easier to roll good ones  
-Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR% and enhanced damage affixes to allow a wider range of bases to be used in crafting
+- Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR% and enhanced damage affixes to allow a wider range of bases to be used in crafting
 
 <br/>
 
@@ -49,7 +49,7 @@ Lowered alvl requirement from 85 to 80 on the “new” top-end chest/shield PDR
 - Zhar unique map increased density & charm roll
 - Fallen Garden unique map increased density and mf% bonus
 - Slight buffs to the rolls on the unique maps
--	Cost of orbs at anya significantly reduced
+-	Cost of orbs at Anya significantly reduced
 
 <br/>
 
